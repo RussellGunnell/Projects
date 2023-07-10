@@ -1,0 +1,11 @@
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\obj\Debug\Ascii_Art_Generator.csproj.AssemblyReference.cache
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\obj\Debug\Ascii_Art_Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\obj\Debug\Ascii_Art_Generator.Form1.resources
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\obj\Debug\Ascii_Art_Generator.Properties.Resources.resources
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\obj\Debug\Ascii_Art_Generator.csproj.GenerateResource.cache
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\obj\Debug\Ascii_Art_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\bin\Debug\Ascii_Art_Generator.exe.config
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\bin\Debug\Ascii_Art_Generator.exe
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\bin\Debug\Ascii_Art_Generator.pdb
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\obj\Debug\Ascii_Art_Generator.exe
+C:\Users\Russell\source\repos\Ascii_Art_Generator\Ascii_Art_Generator\obj\Debug\Ascii_Art_Generator.pdb

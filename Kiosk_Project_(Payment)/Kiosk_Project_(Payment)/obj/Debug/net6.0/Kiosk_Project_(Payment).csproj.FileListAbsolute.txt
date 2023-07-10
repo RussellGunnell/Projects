@@ -1,0 +1,15 @@
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\bin\Debug\net6.0\Kiosk_Project_(Payment).exe
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\bin\Debug\net6.0\Kiosk_Project_(Payment).deps.json
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\bin\Debug\net6.0\Kiosk_Project_(Payment).runtimeconfig.json
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\bin\Debug\net6.0\Kiosk_Project_(Payment).dll
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\bin\Debug\net6.0\Kiosk_Project_(Payment).pdb
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\Kiosk_Project_(Payment).csproj.AssemblyReference.cache
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\Kiosk_Project_(Payment).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\Kiosk_Project_(Payment).AssemblyInfoInputs.cache
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\Kiosk_Project_(Payment).AssemblyInfo.cs
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\Kiosk_Project_(Payment).csproj.CoreCompileInputs.cache
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\Kiosk_Project_(Payment).dll
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\refint\Kiosk_Project_(Payment).dll
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\Kiosk_Project_(Payment).pdb
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\Kiosk_Project_(Payment).genruntimeconfig.cache
+C:\Users\Russell\source\repos\Kiosk_Project_(Payment)\Kiosk_Project_(Payment)\obj\Debug\net6.0\ref\Kiosk_Project_(Payment).dll

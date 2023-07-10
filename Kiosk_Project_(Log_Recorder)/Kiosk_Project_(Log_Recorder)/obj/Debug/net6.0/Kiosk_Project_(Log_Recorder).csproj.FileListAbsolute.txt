@@ -1,0 +1,15 @@
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\bin\Debug\net6.0\Kiosk_Project_(Log_Recorder).exe
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\bin\Debug\net6.0\Kiosk_Project_(Log_Recorder).deps.json
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\bin\Debug\net6.0\Kiosk_Project_(Log_Recorder).runtimeconfig.json
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\bin\Debug\net6.0\Kiosk_Project_(Log_Recorder).dll
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\bin\Debug\net6.0\Kiosk_Project_(Log_Recorder).pdb
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\Kiosk_Project_(Log_Recorder).csproj.AssemblyReference.cache
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\Kiosk_Project_(Log_Recorder).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\Kiosk_Project_(Log_Recorder).AssemblyInfoInputs.cache
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\Kiosk_Project_(Log_Recorder).AssemblyInfo.cs
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\Kiosk_Project_(Log_Recorder).csproj.CoreCompileInputs.cache
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\Kiosk_Project_(Log_Recorder).dll
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\refint\Kiosk_Project_(Log_Recorder).dll
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\Kiosk_Project_(Log_Recorder).pdb
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\Kiosk_Project_(Log_Recorder).genruntimeconfig.cache
+C:\Users\Russell\source\repos\Kiosk_Project_(Log_Recorder)\Kiosk_Project_(Log_Recorder)\obj\Debug\net6.0\ref\Kiosk_Project_(Log_Recorder).dll

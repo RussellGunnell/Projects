@@ -1,0 +1,11 @@
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\bin\Debug\Decoder_Project.exe.config
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\bin\Debug\Decoder_Project.exe
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\bin\Debug\Decoder_Project.pdb
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\obj\Debug\Decoder_Project.csproj.AssemblyReference.cache
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\obj\Debug\Decoder_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\obj\Debug\Decoder_Project.Form1.resources
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\obj\Debug\Decoder_Project.Properties.Resources.resources
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\obj\Debug\Decoder_Project.csproj.GenerateResource.cache
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\obj\Debug\Decoder_Project.csproj.CoreCompileInputs.cache
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\obj\Debug\Decoder_Project.exe
+C:\Users\Russell\source\repos\Decoder_Project\Decoder_Project\obj\Debug\Decoder_Project.pdb

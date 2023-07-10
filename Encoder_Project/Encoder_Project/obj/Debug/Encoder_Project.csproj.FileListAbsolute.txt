@@ -1,0 +1,11 @@
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\bin\Debug\Encoder_Project.exe.config
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\bin\Debug\Encoder_Project.exe
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\bin\Debug\Encoder_Project.pdb
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\obj\Debug\Encoder_Project.csproj.AssemblyReference.cache
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\obj\Debug\Encoder_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\obj\Debug\Encoder_Project.Form1.resources
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\obj\Debug\Encoder_Project.Properties.Resources.resources
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\obj\Debug\Encoder_Project.csproj.GenerateResource.cache
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\obj\Debug\Encoder_Project.csproj.CoreCompileInputs.cache
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\obj\Debug\Encoder_Project.exe
+C:\Users\Russell\source\repos\Encoder_Project\Encoder_Project\obj\Debug\Encoder_Project.pdb
